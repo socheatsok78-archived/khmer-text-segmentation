@@ -1,0 +1,13 @@
+﻿KHMER SPELLCHECKER FOR OPENOFFICE Version 1.0
+
+Author:
+  KhmerOS Project Team
+  Javier Sola <javier@khmeros.info>
+
+This spellchecker for OpenOffice was based on the Chuon Nath and Headley dictionaries
+It follows Choun Nath's Dictionary spelling.
+
+Project site: www.hmeros.info
+
+This spellchecker is released with  GPLv3 license
+Visit http://www.gnu.org/licenses/ for more information
