@@ -6,9 +6,12 @@
     "author": "Socheat <socheatsok78@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "start": "node index.mjs"
+        "start": "node --experimental-modules --inspect index.mjs"
     },
     "devDependencies": {
         "eslint": "^6.1.0"
+    },
+    "dependencies": {
+        "@tensorflow/tfjs-node": "^1.2.5"
     }
 }
