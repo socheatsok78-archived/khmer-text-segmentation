@@ -1,1 +1,4 @@
-console.log('Index.js');
+import main from './src/index';
+
+// Start main
+main();
