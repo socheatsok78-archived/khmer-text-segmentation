@@ -1,0 +1,14 @@
+{
+    "name": "khmer-text-segmentation",
+    "version": "1.0.0",
+    "main": "index.mjs",
+    "repository": "git@github.com:socheatsok78/khmer-text-segmentation.git",
+    "author": "Socheat <socheatsok78@gmail.com>",
+    "license": "MIT",
+    "scripts": {
+        "start": "node index.mjs"
+    },
+    "devDependencies": {
+        "eslint": "^6.1.0"
+    }
+}
