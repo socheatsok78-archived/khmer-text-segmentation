@@ -10,14 +10,6 @@
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal"
-        },
-        {
-            "type": "node",
-            "request": "launch",
-            "name": "Launch Program",
-            "program": "${workspaceFolder}/index.mjs",
-            "outFiles": ["${workspaceFolder}/**/*.js"],
-            "runtimeArgs": ["--experimental-modules"]
         }
     ]
 }
