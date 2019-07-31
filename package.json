@@ -6,7 +6,8 @@
     "author": "Socheat <socheatsok78@gmail.com>",
     "license": "MIT",
     "scripts": {
-        "start": "node --experimental-modules --inspect index.mjs"
+        "start": "node --experimental-modules --inspect index.mjs",
+        "train": "python3 ./src/setup.py"
     },
     "devDependencies": {
         "eslint": "^6.1.0"
